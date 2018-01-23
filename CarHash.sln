@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarHash", "CarHash\CarHash.csproj", "{3B613156-AC6C-4707-888C-58E2E713888E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B613156-AC6C-4707-888C-58E2E713888E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B613156-AC6C-4707-888C-58E2E713888E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B613156-AC6C-4707-888C-58E2E713888E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B613156-AC6C-4707-888C-58E2E713888E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2811D21-B091-4F00-820F-BF2A6F55F92C}
+	EndGlobalSection
+EndGlobal
